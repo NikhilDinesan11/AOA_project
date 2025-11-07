@@ -169,7 +169,6 @@ Tested on input sizes: 10,000 to 1,000,000 towns (10 data points)
 
 - Arjun Kaliyath
 - Nikhil Dinesan
-- darkflames
 
 ## License
 
